@@ -29,5 +29,6 @@ For this analysis, the focus is on the `Middlesex` country in the state of `Mass
 
 ## Visuals
 
-!(https://github.com/pragyy/Data-512-Course-Project/blob/main/pic/dailycovidcases.PNG)
-!(https://github.com/pragyy/Data-512-Course-Project/blob/main/pic/changeincovidcases.PNG)
+![img1](https://github.com/pragyy/Data-512-Course-Project/blob/main/pic/dailycovidcases.PNG)
+
+![img2](https://github.com/pragyy/Data-512-Course-Project/blob/main/pic/changeincovidcases.PNG)

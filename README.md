@@ -27,5 +27,7 @@ The majority of this data is by US County by Day. The mask compliance is a singl
 
 For this analysis, the focus is on the `Middlesex` country in the state of `Massachusetts`.
 
-## Analysis
+## Visuals
 
+!(https://github.com/pragyy/Data-512-Course-Project/blob/main/pic/dailycovidcases.PNG)
+!(https://github.com/pragyy/Data-512-Course-Project/blob/main/pic/changeincovidcases.PNG)

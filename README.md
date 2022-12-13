@@ -34,7 +34,17 @@ The dataset contains county-level data on health, socioeconomics, and weather ca
 
 For this analysis, the focus is on the `Middlesex` country in the state of `Massachusetts`.
 
+### Output Folder
+
+This folder contains the intermediate files generated in the analysis.
+
+The two files generated are - 
+1. correlated features - This contains the variables that are correlated to the covid cases.
+2. middlesex features - These are the constant attributes related to the Middlesex county.
+
 ## Visuals
+
+A few of the visual generated in this analysis are - 
 
 ![img1](https://github.com/pragyy/Data-512-Course-Project/blob/main/pic/dailycovidcases.PNG)
 
